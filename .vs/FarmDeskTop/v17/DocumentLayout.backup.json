@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|c:\\users\\mateu\\onedrive\\desktop\\pim desktop\\farmdesktop\\desktop fazenda urbana\\dal\\logindaocomandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|solutionrelative:desktop fazenda urbana\\dal\\logindaocomandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|c:\\users\\mateu\\onedrive\\desktop\\pim desktop\\farmdesktop\\desktop fazenda urbana\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|solutionrelative:desktop fazenda urbana\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\desktop fazenda urbana\\telas\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|solutionrelative:desktop fazenda urbana\\telas\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|c:\\users\\mateu\\onedrive\\desktop\\pim desktop\\farmdesktop\\desktop fazenda urbana\\telas\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|solutionrelative:desktop fazenda urbana\\telas\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\desktop fazenda urbana\\telas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|solutionrelative:desktop fazenda urbana\\telas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|c:\\users\\mateu\\onedrive\\desktop\\pim desktop\\farmdesktop\\desktop fazenda urbana\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|solutionrelative:desktop fazenda urbana\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|c:\\users\\mateu\\onedrive\\desktop\\pim desktop\\farmdesktop\\desktop fazenda urbana\\telas\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6046C89-4F8D-4013-BDF5-B52D36AD868C}|DeskTop Fazenda Urbana\\DeskTop Fazenda Urbana.csproj|solutionrelative:desktop fazenda urbana\\telas\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginDaoComandos.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\DAL\\LoginDaoComandos.cs",
+              "RelativeDocumentMoniker": "DeskTop Fazenda Urbana\\DAL\\LoginDaoComandos.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\DAL\\LoginDaoComandos.cs",
+              "RelativeToolTip": "DeskTop Fazenda Urbana\\DAL\\LoginDaoComandos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:22:32.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedidos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Telas\\Pedidos.cs",
+              "RelativeDocumentMoniker": "DeskTop Fazenda Urbana\\Telas\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Telas\\Pedidos.cs [Projeto]",
+              "RelativeToolTip": "DeskTop Fazenda Urbana\\Telas\\Pedidos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:32:42.34Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "DeskTop Fazenda Urbana\\Modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Modelo\\Controle.cs",
+              "RelativeToolTip": "DeskTop Fazenda Urbana\\Modelo\\Controle.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:22:04.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Telas\\Cadastro.cs",
+              "RelativeDocumentMoniker": "DeskTop Fazenda Urbana\\Telas\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Telas\\Cadastro.cs [Projeto]",
+              "RelativeToolTip": "DeskTop Fazenda Urbana\\Telas\\Cadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:18:48.226Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Telas\\Form1.cs",
+              "RelativeDocumentMoniker": "DeskTop Fazenda Urbana\\Telas\\Form1.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Telas\\Form1.cs [Projeto]",
+              "RelativeToolTip": "DeskTop Fazenda Urbana\\Telas\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:18:51.698Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\DAL\\Conexao.cs",
+              "RelativeDocumentMoniker": "DeskTop Fazenda Urbana\\DAL\\Conexao.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\DAL\\Conexao.cs",
+              "RelativeToolTip": "DeskTop Fazenda Urbana\\DAL\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:21:40.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Telas\\Pedidos.cs",
+              "RelativeDocumentMoniker": "DeskTop Fazenda Urbana\\Telas\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Desktop\\PIM DeskTop\\FarmDeskTop\\DeskTop Fazenda Urbana\\Telas\\Pedidos.cs",
+              "RelativeToolTip": "DeskTop Fazenda Urbana\\Telas\\Pedidos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:49:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
